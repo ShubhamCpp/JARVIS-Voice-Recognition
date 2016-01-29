@@ -9,12 +9,12 @@ Open the Project file with Microsoft Visual Studio. This is made in VS Pro 2013,
 
 JARVIS uses the Microsoft System.Speech Library to understand Voice inputs. The System.Speech Library is a part of Microsoft's .NET Framework.
 
-For more information about the Library and the Documentation, visit :- [Microsoft System.Speech Documentation](https://msdn.microsoft.com/en-us/library/gg145021%28v=vs.110%29.aspx)
+For more information about the Library and the Documentation, visit :- [Microsoft System.Speech Documentation](https://msdn.microsoft.com/en-us/library/gg145021%28v=vs.110%29.aspx)         
 Also visit :- [Microsoft System.Speech.Synthesis Documentation](https://msdn.microsoft.com/en-in/library/system.speech.synthesis%28v=vs.110%29.aspx)
 
 ### Understanding the Code
 
-Visit this link for a proper understanding of the code, the System.Speech Library and the included functions, and how to work with it in C#[Code Project Speen Recognition with C#](http://www.codeproject.com/Articles/483347/Speech-recognition-speech-to-text-text-to-speech-a)
+Visit this link for a proper understanding of the code, the System.Speech Library and the included functions, and how to work with it in C# : [Code Project Speen Recognition with C#](http://www.codeproject.com/Articles/483347/Speech-recognition-speech-to-text-text-to-speech-a)
 
 ## Reviewing, Adding and Editing Commands
 
