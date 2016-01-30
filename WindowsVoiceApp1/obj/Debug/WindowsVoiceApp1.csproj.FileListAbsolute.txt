@@ -1,0 +1,14 @@
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\bin\Debug\WindowsVoiceApp1.exe.config
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\bin\Debug\WindowsVoiceApp1.exe
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\bin\Debug\WindowsVoiceApp1.pdb
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csprojResolveAssemblyReference.cache
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.Properties.Resources.resources
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.GenerateResource.Cache
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.exe
+c:\users\shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.pdb
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.csproj.ResolveComReference.cache
+C:\Users\Shubham\documents\visual studio 2013\Projects\WindowsVoiceApp1\WindowsVoiceApp1\obj\Debug\WindowsVoiceApp1.KeyHandle.resources
